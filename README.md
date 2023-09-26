@@ -1,5 +1,7 @@
 ## 복덕방 팀 프로젝트
+<p align="center"> <img width="300" src="https://github.com/jiyoung3725/BokDuckBang/assets/130877885/fb6241a7-749c-4867-b8d9-1d3e4ebb5943"></p>
 
+##
 ### 목차
 1.[프로젝트 개요](#프로젝트-개요)  
 2.[ERD 설계](#erd-설계)  
